@@ -1,2 +1,4 @@
 # Video-and-Q-A-Assistant
-RAG-based assistant that summarizes YouTube subtitles  then answers questions using semantic search and LLM generation. Built with Streamlit and LangChain, it retrieves relevant content using embeddings and vector search to generate accurate, context-aware responses.
+🎥📄 Video RAG Summarizer and Q&A Assistant
+
+This project is a Retrieval-Augmented Generation (RAG) application that allows users to summarize YouTube video  , then ask questions about the content. The system retrieves relevant information using embeddings and vector search, then generates accurate responses using an LLM.
